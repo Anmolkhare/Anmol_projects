@@ -1,0 +1,9 @@
+echo "Enter 1st number: "
+read first_number
+echo "Enter 2st number: "
+read second_number
+
+sum= $((first_number + second_number))
+
+echo "Sum of $first_number and $second_number is: $sum"
+

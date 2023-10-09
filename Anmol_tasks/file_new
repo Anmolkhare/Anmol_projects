@@ -1,0 +1,9 @@
+
+echo Enter first number =
+read a
+echo Enter second number =
+read b
+echo a=$a
+echo b=$b
+mul="expr $a * $b"
+echo mul=$mul

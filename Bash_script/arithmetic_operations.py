@@ -1,3 +1,6 @@
+
+
+
 fs = int(input("Enter Frist number"))
 se = int(input("Enter second number"))
 
